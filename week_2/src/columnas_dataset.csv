@@ -1,0 +1,38 @@
+CÓDIGO DE VARIABLE;NOMBRE DE LA VARIABLE
+I01;Provincia
+I02;Identificador de Cantón
+I03;Identificador de Parroquia
+I04;Zona 
+I05;Sector 
+I10;Número de vivienda 
+D01;Tipo de vía
+V01;Tipo de vivienda
+V0201;Condición de ocupación de vivienda particular 
+V0202;Condición de ocupación de vivienda colectiva
+V03;Material predominante del techo o cubierta
+V04;"Estado del techo o cubierta
+"
+V05;Material predominante de las paredes exteriores
+V06;Estado de las paredes exteriores
+V07;Material predominante del piso
+V08;Estado del piso
+V09;El agua que recibe la vivienda es
+V10;El agua que recibe la vivienda proviene o es suministrada por
+V11;El servicio higiénico de la vivienda es
+V12;Disponibilidad de energía eléctrica por red pública
+V13;Disponibilidad de otra fuente de energía eléctrica
+V14;Eliminación de la basura
+V15;Número de cuartos
+V16;Todas las personas comparten un mismo gasto para la alimentación
+V17;Número de hogares
+AUR;Área urbana o rural
+CANTON;Cantón
+PARROQ;Cabecera cantonal o parroquia rural
+ID_VIV;Identificador de la vivienda
+TOTFALL;Total de fallecidos de la vivienda
+TOTEMI;Total de emigrantes de la vivienda
+TOTPER;Total de personas de la vivienda
+V0201R;Condición de ocupación de vivienda particular (recodificada)
+V15R;Número de cuartos (recodificada)
+DEF_HAB;Déficit habitacional
+IMP_VOPA;Registro imputado en vivienda ocupada con personas ausentes
